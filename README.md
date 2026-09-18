@@ -250,16 +250,6 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
----
-
-## Future Enhancements
-
-* Additional Indian language support.
-* Image and diagram generation.
-* STEM quizzes and assessments.
-* Voice-based interaction.
-* Offline educational mode.
-* Personalized learning recommendations.
 
 ---
 
