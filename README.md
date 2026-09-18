@@ -198,3 +198,73 @@ The application provides a simple interface where users can:
                     │                   │
                     │ Text + Audio      │
                     └───────────────────┘
+## Technologies Used
+
+### Frontend
+
+* Streamlit
+
+### Backend
+
+* Python
+
+### AI Model
+
+* Gemini 2.5 Flash
+
+### Audio Generation
+
+* Google Text-to-Speech (gTTS)
+
+### Environment Management
+
+* Python Virtual Environment
+
+---
+
+## Project Structure
+
+```text
+team-02
+│
+├── app.py
+├── README.md
+├── requirements.txt
+├── Multilingual_STEM_Explainer.pptx
+└── .gitignore
+```
+
+---
+
+## Installation
+
+```bash
+pip install -r requirements.txt
+```
+
+---
+
+## Run the Application
+
+```bash
+streamlit run app.py
+```
+
+---
+
+## Future Enhancements
+
+* Additional Indian language support.
+* Image and diagram generation.
+* STEM quizzes and assessments.
+* Voice-based interaction.
+* Offline educational mode.
+* Personalized learning recommendations.
+
+---
+
+## Conclusion
+
+STEMNexus AI  Explainer demonstrates how Generative AI can make education more inclusive and accessible. By combining multilingual explanations, localized analogies, and audio support, the platform helps students understand STEM concepts in a simple and engaging manner.
+
+This project contributes toward bridging educational gaps and promoting accessible learning for all.
